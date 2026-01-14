@@ -130,7 +130,7 @@ export const Header = () => {
                 <li>Swap</li>
                 <li>Learn Trading & Earn</li>
                 <li>
-                  <a href="https://four.meme/token/0xf703a03d974fa0faee73309ef2fa2963b0794444" target="_blank">
+                  <a href="https://www.mondx.xyz/" target="_blank">
                   $MONDX
                   </a>
                   </li>
