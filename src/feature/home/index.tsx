@@ -246,7 +246,7 @@ export const Home = () => {
                   className="overflow-hidden block relative whitespace-nowrap
   text-6xl font-bold  mb-2 w-auto  text-white"
                 >
-                  Swap on <span className=" text-base_color">Monad</span>
+                  Bridge on <span className=" text-base_color">Monad</span>
                 </h2>
 
                 <p className="text-lg text-font-60 mt-5 max-w-[600px]">
