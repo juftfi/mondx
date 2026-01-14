@@ -107,7 +107,7 @@ export const Header = () => {
   return (
     <header className="flex items-center justify-between h-[60px] px-2.5 border-b border-borderColor">
       <div className="flex items-center gap-5">
-        <Link href="/">
+        
           <div className="flex items-center gap-2">
             
             <img
@@ -131,7 +131,7 @@ export const Header = () => {
               </ul>
             </nav>
           </div>{" "}
-        </Link>
+        
       </div>
       <div className="flex items-center gap-5">
         <div className="flex relative w-fit h-fit">
