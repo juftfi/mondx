@@ -64,7 +64,7 @@ export const Home = () => {
               >
                 <p className="text-lg text-font-80 font-normal mt-5 max-w-[600px]">
                   Experience a new era of trading with MondX, the pioneering
-                  decentralized exchange on Monad. Enjoy an intuitive user
+                  decentralized exchange on Monad and BSC. Enjoy an intuitive user
                   interface and benefit from the{" "}
                   <span className="text-white font-bold">lowest fees</span> in
                   the market, powered by Orderly Network for seamless and
