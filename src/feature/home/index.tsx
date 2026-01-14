@@ -117,7 +117,7 @@ export const Home = () => {
                 }}
                 className="mt-[40px] rounded  text-white text-lg mr-auto cursor-pointer bg-base_color"
               >
-                <Link href="https://four.meme/" className="w-full h-full" target="_blank">
+                <Link href="https://four.meme/token/0xf703a03d974fa0faee73309ef2fa2963b0794444" className="w-full h-full" target="_blank">
                   <div className="flex items-center justify-center w-full text-lg h-full px-4 py-2">
                     BUY $MONDX{" "}
                   </div>
