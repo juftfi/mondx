@@ -109,16 +109,22 @@ export const Header = () => {
       <div className="flex items-center gap-5">
         
           <div className="flex items-center gap-2">
-            
+            <a href="https://www.mondx.xyz/">
             <img
               src="/logo.png"
               height={30}
               className="h-[20px] max-h-[20px] invert opacity-90"
             />
+            </a>
 
             <nav className="ml-5 h-full hidden lg:flex">
               <ul className="text-white text-medium text-sm flex items-center gap-5 h-full">
-                <li>Trade</li>
+                <li>
+                  <a href="https://www.mondx.xyz/">
+                  Trade
+                  </a>
+                </li>
+                  
                 <li>Dashboard</li>
                 <li>Portfolio</li>
                 <li>Swap</li>
